@@ -1,0 +1,10 @@
+.formfields input {
+    width: 100%;
+}
+.formfields textarea {
+    width: 100%;
+    height:100px;
+}
+th.gap-table-form-row {
+    width: 200px;
+}
